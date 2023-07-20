@@ -5,7 +5,7 @@ An advanced electronic management system(e-waste) in php using codeigniter frame
 
 
 *****************************************************
-By `Johnson Matoke <https://github.com/johniez254>`_
+By ` <https://github.com/AmulyaBijigiri>`_
 *****************************************************
 
 ###################
@@ -58,7 +58,7 @@ ii)	Open command prompt(cmd) and navigate to the folder "**e-waste**" C:\Xampp\h
 iii)	Clone the project by running the following bash command:
 
 ``` 
-$ git clone https://github.com/johniez254/e-waste.git
+$ git clone https://github.com/AmulyaBijigiri/e-waste.git
 ```
 
 iv) The following files will be available in your cloned project
@@ -97,31 +97,11 @@ iv) The following files will be available in your cloned project
 	   * - ``.LICENCE``
 	     - The MIT standard licence
        
-v) Open awaste.sql and copy all the database schemas inside and paste it in your phpmyadmin server under the SQL tab of your mysql server. This action copies all the system tables and queries.
+v) Open ewaste.sql and copy all the database schemas inside and paste it in your phpmyadmin server under the SQL tab of your mysql server. This action copies all the system tables and queries.
 
 vi) You are almost done. Navigate to your browser open this link URL <http://localhost/e-waste/> to view your already set project.
 
 vi) That's it! Enjoy and have a happy coding experience.
-
-
-###############################
-Super Admin Default Credentials
-###############################
-
-username: **admin@gmail.com**
-
-password: **admin123**
-
-N/B: You can always change this credentials once you have logged in with this default credentials in the profile section. Admin can also add client once logged in. There is an option for clients to register themselves too.
-
-
-*******************
-Release Information
-*******************
-
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
 
 **************************
 Changelog and New Features
@@ -140,13 +120,6 @@ such old versions of PHP, because of potential security and performance
 issues, as well as missing features.
 
 
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
 *********
 Resources
 *********
@@ -160,16 +133,4 @@ Resources
 Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
 or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 
-***************
-Acknowledgement
-***************
 
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
-
-## Creator
-
-**Johnson Matoke**
-
-* <https://twitter.com/johnsonnyabayo>
-* <https://github.com/johniez254>
